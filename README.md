@@ -3,11 +3,13 @@
  Welcome to my portfolio repository! This contains my resume, list of projects, and ways to connect with me.
 
  ---
+ 
  ## Resume
  [Download My Resume](Nikki_Goyal_Resume.pdf)
 
  ---
 
+## Projects
 <!--
 **devops-nikki/devops-nikki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
