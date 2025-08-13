@@ -30,7 +30,20 @@
 - **Dockerized Node.js App** → [View Repo](https://github.com/devops-nikki/elevate-labs-Nodejs-CICD-demo )  
 - **AWS Infrastructure with Terraform** → [View Repo](https://github.com/devops-nikki/tech_eazy_devops-nikki_aws_devops)  
 - **App deployment through Kubernetes** → [View Repo](https://github.com/devops-nikki/Elevate-labs-kubernetes-minikube-deployment-task )  
+## 🚀 Featured Projects
 
+<a href="https://github.com/devops-nikki/elevate-labs-Nodejs-CICD-demo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devops-nikki&repo=elevate-labs-Nodejs-CICD-demo&theme=tokyonight" />
+</a>
+<a href="https://github.com/devops-nikki/tech_eazy_devops-nikki_aws_devops">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devops-nikki&repo=tech_eazy_devops-nikki_aws_devops&theme=tokyonight" />
+</a>
+<a href="https://github.com/devops-nikki/CI-CD-static">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devops-nikki&repo=CI-CD-static&theme=tokyonight" />
+</a>
+<a href="https://github.com/devops-nikki/Elevate-labs-kubernetes-minikube-deployment-task">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=devops-nikki&repo=Elevate-labs-kubernetes-minikube-deployment-task&theme=tokyonight" />
+</a>
 ---
 
 ### 📊 GitHub Stats
