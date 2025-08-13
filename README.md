@@ -10,8 +10,8 @@
 ### 👩‍💻 About Me
 - 🌱 I’m currently learning **AWS, Docker, Terraform, and CI/CD**  
 - 💼 Looking for **Entry-Level DevOps Roles**  
-- 📄 [Download My Resume](https://github.com/devops-nikki/portfolio/blob/main/NikkiGoyal_Resume.pdf)  
-- 📫 How to reach me: **your.email@example.com**
+- 📄 [Download My Resume](Nikki_Goyal_Resume.pdf)  
+- 📫 How to reach me: **nikkigoyal679@gmail.com**
 
 ---
 
