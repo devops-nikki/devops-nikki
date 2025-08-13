@@ -46,10 +46,10 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://linkedin.com/in/nikki-goyal-devops" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:nikkigoyal679@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&logoColor=white" />
   </a>
 </p>
