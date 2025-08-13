@@ -27,9 +27,9 @@
 ---
 
 ### 📂 Projects
-- **Dockerized Node.js App** → [View Repo](https://github.com/devops-nikki/nodejs-app)  
-- **AWS Infrastructure with Terraform** → [View Repo](https://github.com/devops-nikki/aws-terraform)  
-- **CI/CD Pipeline with GitHub Actions** → [View Repo](https://github.com/devops-nikki/cicd-demo)  
+- **Dockerized Node.js App** → [View Repo](https://github.com/devops-nikki/elevate-labs-Nodejs-CICD-demo )  
+- **AWS Infrastructure with Terraform** → [View Repo](https://github.com/devops-nikki/tech_eazy_devops-nikki_aws_devops)  
+- **App deployment through Kubernetes** → [View Repo](https://github.com/devops-nikki/Elevate-labs-kubernetes-minikube-deployment-task )  
 
 ---
 
