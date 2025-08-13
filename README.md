@@ -7,11 +7,25 @@
 
 ---
 
-### 👩‍💻 About Me
-- 🌱 I’m currently learning **AWS, Docker, Terraform, and CI/CD**  
-- 💼 Looking for **Entry-Level DevOps Roles**  
-- 📄 [Download My Resume](Nikki_Goyal_Resume.pdf)  
-- 📫 How to reach me: **nikkigoyal679@gmail.com**
+### 👩‍💻 About Me 
+
+🌟 Passionate **DevOps Enthusiast** focused on cloud, automation, and containerization.  
+
+💻 Skilled in:  
+[![RHEL Linux](https://img.shields.io/badge/Linux-RHEL-red?logo=redhat&logoColor=white)](#)  
+[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)](#)  
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazon-aws&logoColor=white)](#)  
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)](#)  
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)  
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](#)  
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)](#) *(Learning)*  
+
+📚 Currently diving deeper into **Kubernetes** and cloud-native development.  
+🚀 Passionate about building scalable, automated, and reliable infrastructure.  
+💼 Open to **Entry-Level DevOps Roles** to contribute and grow.  
+
+📩 **Reach me at:** [nikkigoyal679@gmail.com](mailto:nikkigoyal679@gmail.com)
 
 ---
 
